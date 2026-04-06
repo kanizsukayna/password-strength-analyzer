@@ -59,17 +59,10 @@ Scores and suggestions will be shown accordingly.
 🤝 Contributions
 Feel free to fork this project and enhance it! Suggestions and pull requests are always welcome.
 ---
+
 📜 License
 This project is open-source and free to use.
 Built by Kaniz Sukayna
 
 
-### ✅ What to do next:
 
-1. Save that as `README.md` inside your project root.
-2. Add it to Git and push it:
-
-```bash
-git add README.md
-git commit -m "Added professional README"
-git push
