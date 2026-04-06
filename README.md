@@ -57,8 +57,9 @@ Make sure your browser can access your Kali IP on port 5000
 Scores and suggestions will be shown accordingly.
 ---
 🤝 Contributions
-Feel free to fork this project and enhance it! Suggestions and pull requests are always welcome.
 ---
+Feel free to fork this project and enhance it! Suggestions and pull requests are always welcome.
+
 
 📜 License
 This project is open-source and free to use.
